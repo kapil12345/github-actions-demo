@@ -16,7 +16,7 @@ jobs:
         npm install
         npm run-script build
     - name: Deploy
-      uses: kapil12345/github-action-demo@releases/v3
+      uses: kapil12345/github-action-demo
       with:
         ACCESS_TOKEN: ${{ secrets.demo }}
         BRANCH: master
