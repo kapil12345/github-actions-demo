@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello S&P
+          Hello S&P-1
         </a>
       </header>
     </div>
